@@ -1,0 +1,26 @@
+  .container-all-modules{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content: space-between;
+  padding: 20px;
+  }
+ .modules{
+    font-size: 16px;
+    margin-left: 12px;
+}
+.container-text{
+    background-color: inherit;
+    height: 10px;
+    font-size: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.module-description{
+    font-size: 14px;
+    font-weight: 300;
+    text-align: start;
+}

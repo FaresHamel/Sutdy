@@ -1,0 +1,21 @@
+.container-courses{
+    background-color: inherit;
+    text-decoration: dashed;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-add-cours{
+    background-color:inherit;
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items:flex-start;
+    justify-content: space-around;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}

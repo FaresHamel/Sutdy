@@ -1,0 +1,10 @@
+  .container-all-spiciality{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  align-content: space-between;
+  padding: 20px;
+  }
+ 

@@ -1,0 +1,60 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+}
+.main-container{
+  background-color:#fff;
+  text-align: center;
+  min-height: 100vh;
+  overflow: scroll;
+  margin-top: 70px;
+}
+
+.todos-container{
+  background-color: inherit;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.todos-table{
+  background-color: rgb(214, 228, 187);
+  width: 90%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 3px;
+  box-shadow: 0px 1px 100px #111;
+}
+.todo-item{
+  border-radius: 7px;
+  border: 1px solid #111;
+  width: 90%;
+  padding: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.delete-Item{
+  background-color: tomato;
+  padding: 5px;
+  border-radius: 3px;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 10px;
+  border: .5px solid;
+  transition: all .4s ease-in-out;
+  color: #fff;
+}
+.delete-Item:hover{
+  background-color: #fff;
+  color: tomato;
+  border: .5px solid tomato;
+}

@@ -1,0 +1,109 @@
+.carousel {
+  height: 630px;
+  width: 100%;
+  background-color: inherit;
+}
+.carousel-item {
+  height: 630px;
+}
+.d-block {
+  height: 630px;
+}
+/* Start Styling Section visit News of university */
+.div-container-education-news {
+  background-color: #1f7237;
+  height: 500px;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+/* End Styling Section visit News of University */
+/* Start Styling Section visit Break */
+.div-container-education-breaken {
+  background-color: #eaeaea;
+  height: 500px;
+  margin-top: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+/* End Styling Section visit Break */
+/* Start Styling Section visit Web Site */
+.div-container-elerning-platform {
+  width: 100%;
+  background-color: #ff8200;
+  color: #eaeaea;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+/* End Styling Section visit Web Site */
+/* Start Styling Section visit University Journals */
+.div-container-journy-university {
+  background-color: inherit;
+  width: 100%;
+  padding-top: 20px;
+}
+.span-container-title-university-journls {
+  font-weight: 700;
+  font-size: 30px;
+  text-transform: capitalize;
+  color: #1f7237;
+}
+.div-container-univerity-journals {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  padding-top: 30px;
+}
+.div-cont {
+  flex-basis: 50%;
+  background-color: inherit;
+  display: flex;
+  flex-direction: row;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.con-tit {
+  background-color: inherit;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.img {
+  width: 250px;
+  height: 200px;
+  border-radius: 2px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.con-tit-title-h3 {
+  color: #2b5468;
+  font-size: 18px;
+  text-align: left;
+  background: inherit;
+  text-transform: capitalize;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+/* End Styling Section visit University Journals */
+/* Start Styling Section Footer */
+
+footer {
+  background-color: #2b5468;
+  height: 300px;
+  width: 100%;
+}
+
+/* End Styling Section Footer */

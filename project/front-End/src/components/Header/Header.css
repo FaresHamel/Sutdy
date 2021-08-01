@@ -1,0 +1,162 @@
+.header{
+    background-color: #fff;
+    height: 70px;
+    /* box-shadow: rgba(39, 32, 82, 0.15) 0px 20px 10px 0px; */
+    position: fixed;
+    top: 0px; 
+    z-index: 3001;
+    width: 100%;
+}
+.nav{
+    background-color:#fff;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    /* box-shadow: rgba(17, 12, 46, 0.15) 0px 1px 100px 0px; */
+
+}
+/* Start Styling NavBar Logo and Name of University */
+.nav-div-container-logo-name-univ{
+    background-color: inherit;
+    /* background-color: inherit; */
+    flex-basis:25%;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.span-container-name-uni{
+    text-align: center;
+    background-color: inherit;
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.span-container-name-uni-constantine{
+    color: #34ba08;
+    margin-left: 10px;
+    font-weight: 400;
+    margin-top: 5px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.nav-div-container-logo-name-univ-logo{
+    width: 50px;
+    height: 50px;
+    margin-right: 0px;
+}
+/* End Styling NavBar Logo and name of University */
+
+/* Start Styling NavBar Links */
+.nav-ul-links{
+    flex-basis: 40%;
+    height: 100%;
+    background-color: inherit;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-ul-li-a{
+    text-decoration: none;
+    color: #1d4354;
+    font-size: 15px;
+    text-transform: capitalize;
+    background-color: inherit;
+    border-radius: 5px;
+    border: 1px solid transparent;
+    padding: 7px;
+    transition: all .3s ease-in-out;
+}
+.nav-ul-li-a:hover{
+    color: #34ba08;
+    border-radius: 0px;
+    border-bottom: 1px solid #34ba08;
+}
+/* End Styling NavBar Links */
+
+/* Start Styling NavBar Search and SingIn and SingUp */
+.div-container-search-singIn-singUp{
+flex-basis: 35%;
+background-color: inherit;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+}
+.form{
+    background-color:inherit;
+    flex-basis: 50%;
+    height: 35px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid #1d425467;
+    transition: all .3s ease-in-out;
+}
+.form:hover,:focus{
+    border: 1px solid #34ba08;
+}
+.input-search{
+    height: 100%;
+    flex-basis: 80%;
+    border: none;
+    text-transform:capitalize;
+}
+.input-search:focus{
+  text-transform:capitalize;
+    outline: none;
+}
+.icon-search{
+    width: 20px;
+    height: 20px;
+}
+.div-container-singIn-singUp{
+    background-color:inherit;
+    height: 50%;
+    flex-basis: 40%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-left: 1px solid #1d4354;
+}
+ .singIn{
+   text-decoration: none;
+    font-size: 13px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    padding-left: 5px;
+    padding-right: 5px; 
+    border-bottom: 1px solid transparent;
+    transition: all .3s ease-in-out;
+    color: #1d4354;
+    font-weight: 500;
+    margin-right: 10px;
+}
+.singIn:hover{
+ border-bottom: 1px solid #34ba08;
+ color: #34ba08; 
+}
+.singUp{
+    text-decoration: none;
+    background-color: #34ba08;
+    color: #fff;
+    font-size: 13px;
+    padding-bottom: 9px;
+    padding-top: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    font-weight: 500;
+    transition: all .3s ease-in-out;
+}
+.singUp:hover{
+   background-color: #008329;
+    color: #fff; 
+}
+/* End Styling NavBar Search and SingIn and SingUp */

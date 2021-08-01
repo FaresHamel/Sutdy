@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23aeb8c5.chunk.css",
+    "main.js": "/static/js/main.71103af8.chunk.js",
+    "main.js.map": "/static/js/main.71103af8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.788d5ed6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.788d5ed6.js.map",
+    "static/css/2.6ddf72ff.chunk.css": "/static/css/2.6ddf72ff.chunk.css",
+    "static/js/2.693293c7.chunk.js": "/static/js/2.693293c7.chunk.js",
+    "static/js/2.693293c7.chunk.js.map": "/static/js/2.693293c7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6ddf72ff.chunk.css.map": "/static/css/2.6ddf72ff.chunk.css.map",
+    "static/css/main.23aeb8c5.chunk.css.map": "/static/css/main.23aeb8c5.chunk.css.map",
+    "static/js/2.693293c7.chunk.js.LICENSE.txt": "/static/js/2.693293c7.chunk.js.LICENSE.txt",
+    "static/media/Biblio.b4cacf69.jpg": "/static/media/Biblio.b4cacf69.jpg",
+    "static/media/FormSingIn.css": "/static/media/Class.17b55388.jpg",
+    "static/media/EducationBourses.c44653e0.jpg": "/static/media/EducationBourses.c44653e0.jpg",
+    "static/media/EducationOnline.e6870a11.jpg": "/static/media/EducationOnline.e6870a11.jpg",
+    "static/media/It.caade753.jpg": "/static/media/It.caade753.jpg",
+    "static/media/FormSingUp.css": "/static/media/Projects.1f4117df.jpg",
+    "static/media/basic_book.2bdbeb23.svg": "/static/media/basic_book.2bdbeb23.svg",
+    "static/media/basic_elaboration_bookmark_plus.f0b0162c.svg": "/static/media/basic_elaboration_bookmark_plus.f0b0162c.svg",
+    "static/media/basic_elaboration_folder_document.77a0ee52.svg": "/static/media/basic_elaboration_folder_document.77a0ee52.svg",
+    "static/media/basic_elaboration_folder_pencil.61034536.svg": "/static/media/basic_elaboration_folder_pencil.61034536.svg",
+    "static/media/basic_spread_bookmark.2c8b7603.svg": "/static/media/basic_spread_bookmark.2c8b7603.svg",
+    "static/media/bibliothequeOne.722a6b86.jpg": "/static/media/bibliothequeOne.722a6b86.jpg",
+    "static/media/img-univ-const.970cf463.png": "/static/media/img-univ-const.970cf463.png",
+    "static/media/sessus.86214080.jpg": "/static/media/sessus.86214080.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.788d5ed6.js",
+    "static/css/2.6ddf72ff.chunk.css",
+    "static/js/2.693293c7.chunk.js",
+    "static/css/main.23aeb8c5.chunk.css",
+    "static/js/main.71103af8.chunk.js"
+  ]
+}

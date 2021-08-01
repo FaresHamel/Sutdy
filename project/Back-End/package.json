@@ -1,0 +1,30 @@
+{
+    "name": "micro-service-mern",
+    "version": "1.0.0",
+    "description": "this is our project with Microservices technique and with technologie MERS full stack developer",
+    "main": "app.js",
+    "dependencies": {
+        "bcrypt": "^5.0.0",
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "express-validator": "^6.9.2",
+        "gridfs": "^1.0.0",
+        "jsonwebtoken": "^8.5.1",
+        "mongo-gridfs": "^1.1.0",
+        "mongoose": "^5.12.5",
+        "mongos": "0.0.0",
+        "multer": "^1.4.2",
+        "multer-gridfs-storage": "^4.2.0",
+        "node": "^15.4.0",
+        "nodemon": "^2.0.7"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "author": "Fares Taki-Eddin",
+    "license": "ISC"
+}
