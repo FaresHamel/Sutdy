@@ -1,0 +1,1 @@
+This is a study web site help students to get acces to the resource of all modules of any Speciality , and can any doctor or responsable of a module to upload file pdf change name delete file of any module
